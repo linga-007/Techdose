@@ -6,7 +6,7 @@ int main() {
     cout << "Enter a number: ";
     cin >> n;
     
-    cout << "Toggle bit ";
+    cout << "enter the bit to be unsetted";
     int bit;
     cin >> bit;
 
@@ -17,4 +17,3 @@ int main() {
     cout << n;
 
     return 0;
-}
